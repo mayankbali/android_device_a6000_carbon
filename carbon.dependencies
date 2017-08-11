@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "carbon",
+    "repository": "CarbonROM/android_device_lenovo_msm8916-common",
+    "target_path": "device/lenovo/msm8916-common",
+    "revision":"cr-5.1"
+  },
+  {
+   "remote": "carbon",
+   "repository": "CarbonROM/android_kernel_lenovo_msm8916",
+   "target_path": "kernel/lenovo/a6000",
+   "revision":"cr-5.1"
+  },
+  {
+    "remote":"carbon",
+    "repository": "CarbonROM/android_device_qcom_common",
+    "target_path": "device/qcom/common"
+    "revision":"cr-5.1"
+  }
+]
